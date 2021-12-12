@@ -9316,19 +9316,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jorge\\.nuget\\packages\\": {}
+    "C:\\Users\\miespinoza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge\\Documents\\Proyectos\\MIGUEL\\backend\\demo\\demo\\demo.csproj",
+      "projectUniqueName": "C:\\Users\\miespinoza\\Documents\\Demo\\DemoClienteBackend\\demo\\demo\\demo.csproj",
       "projectName": "demo",
-      "projectPath": "C:\\Users\\Jorge\\Documents\\Proyectos\\MIGUEL\\backend\\demo\\demo\\demo.csproj",
-      "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge\\Documents\\Proyectos\\MIGUEL\\backend\\demo\\demo\\obj\\",
+      "projectPath": "C:\\Users\\miespinoza\\Documents\\Demo\\DemoClienteBackend\\demo\\demo\\demo.csproj",
+      "packagesPath": "C:\\Users\\miespinoza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\miespinoza\\Documents\\Demo\\DemoClienteBackend\\demo\\demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\miespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9340,7 +9340,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -9352,7 +9351,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "EntityFramework": {
             "target": "Package",
@@ -9413,7 +9411,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
