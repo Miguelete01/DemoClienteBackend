@@ -49,6 +49,15 @@ namespace demo
 
 			app.UseRouting();
 
+			// Enabled CORS
+			app.UseCors(builder =>
+			{
+				builder.AllowAnyMethod()
+				.AllowAnyHeader()
+				.AllowCredentials()
+				.SetIsOriginAllowed(origin => true);
+			});
+
 			app.UseAuthorization();
 
 			app.UseEndpoints(endpoints =>
